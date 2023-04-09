@@ -1,1 +1,1 @@
-# shogoorg.github.io
+# shogo.org
